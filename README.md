@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="[https://portscaner.ru/wallpaper/kod_programmirovanie_tekst_2.html](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010128.jpg?semt=ais_hybrid&w=740&q=80)"/>
+  <img height="300" width="600" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010128.jpg?semt=ais_hybrid&w=740&q=80"/>
 </div>
 
 <h1 align="center">Hi 👋 I'm Vasif Sultanov</h1>
